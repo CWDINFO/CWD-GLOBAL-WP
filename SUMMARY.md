@@ -6,6 +6,10 @@
 * [DAO CWD GLOBAL](dao-cwd-global.md)
 * [Архитектура блокчейн платформы CWD GLOBAL](arkhitektura-blokchein-platformy-cwd-global.md)
 * [Основные понятия и компоненты блокчейна CWD GLOBAL](osnovnye-ponyatiya-i-komponenty-blokcheina-cwd-global.md)
+* [Криптовалюта CWD и другие токены проекта CWD GLOBAL](kriptovalyuta-cwd-i-drugie-tokeny-proekta-cwd-global/README.md)
+  * [Базовая криптовалюта проекта CWD GLOBAL](kriptovalyuta-cwd-i-drugie-tokeny-proekta-cwd-global/bazovaya-kriptovalyuta-proekta-cwd-global.md)
+  * [Другие токены блокчейна CWD GLOBAL](kriptovalyuta-cwd-i-drugie-tokeny-proekta-cwd-global/drugie-tokeny-blokcheina-cwd-global.md)
+* [Создание новых токенов на платформе CWD GLOBAL](sozdanie-novykh-tokenov-na-platforme-cwd-global.md)
 
 ## Криптовалюта CWD и другие токены блокчейна CWD GLOBAL
 
